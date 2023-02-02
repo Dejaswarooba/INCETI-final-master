@@ -147,6 +147,11 @@ a{
     .container-fluid{
         padding: 40% 5%;
     }
+    .speaker-img{
+        margin-left: 25%;
+        height: 65%;
+        width: 50%;
+    }
 }
 
 .details{
@@ -164,5 +169,12 @@ a{
 
 
 .speaker-img{
-    width: 1000px;
+    margin-left: 77%;
+    height: 65%;
+    width: 50%;
+}
+
+#testimonial-section{
+    background-color: #0c0f28;
+    
 }
