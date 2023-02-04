@@ -90,6 +90,7 @@ p{
     font-size: x-large;
     font-family: 'PT Sans Narrow', sans-serif;
     font-weight: lighter;
+    text-align: justify;
 
     
     
@@ -99,6 +100,7 @@ h4{
     font-size: larger;
     font-family: 'PT Sans Narrow', sans-serif;
     font-weight: lighter;
+    font-style:italic;
 }
 h5{
     text-align: left;
@@ -106,6 +108,10 @@ h5{
     font-family: 'PT Sans Narrow', sans-serif;
     font-weight: lighter;
 
+}
+a,a:hover{
+    color: white;
+    text-decoration: none;
 }
 
 
@@ -137,7 +143,7 @@ a{
 }
 .w-50{
     margin-left: 25%;
-    height: 65%;
+    height: 290px;
 }
 
 /* -------------------------------------------------------------------------------------------------------------------------------------- */
